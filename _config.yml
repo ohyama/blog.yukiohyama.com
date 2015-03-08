@@ -70,3 +70,6 @@ deploy:
   type: git
   repo: git@github.com:ohyama/ohyama-blog.git
   branch: gh-pages
+
+# Disqus
+disqus_shortname: ohyamablog
