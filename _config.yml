@@ -68,7 +68,7 @@ theme: apollo
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:ohyama/ohyama-blog.git
+  repo: git@github.com:ohyama/blog.yukiohyama.com.git
   branch: gh-pages
 
 # Disqus
