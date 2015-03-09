@@ -1,9 +1,0 @@
-machine:
-  timezone:
-    Asia/Tokyo
-  node:
-    version: 0.10.22
-general:
-  branches:
-    only:
-      - master
