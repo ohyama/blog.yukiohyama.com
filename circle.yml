@@ -20,4 +20,5 @@ deployment:
       - git submodule update
       - ./node_modules/.bin/hexo clean
       - ./node_modules/.bin/hexo generate
+      - cp ./circle.yml ./public/
       - ./node_modules/.bin/hexo deploy
