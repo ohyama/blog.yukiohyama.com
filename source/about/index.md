@@ -16,7 +16,7 @@ date: 2015-04-01 00:00:00
 
 2009年に[FaithCreates Inc.](http://www.faithcreates.co.jp/)を設立し代表取締役に就任。「インターネットサービスで世界をもっと幸せに」というミッションを掲げ、仲間と共に様々なサービスを開発している。
 
-また、社外にも[Code for Kobe](https://www.facebook.com/codeforkobe)、[UX KOBE](https://www.facebook.com/uxkobe)、[神戸ITフェスティバル](http://kobe-it-fes.org/)などのテック系コミュニティーを起ち上げ、クリエーターが交流するための場づくりを行っている。
+また、社外にも[Code for Kobe](https://www.facebook.com/codeforkobe)、[UX KOBE](https://www.facebook.com/uxkobe)、[神戸ITフェスティバル](http://kobe-it-fes.org/)などのコミュニティーを起ち上げ、クリエーターが交流するための場づくりを行っている。
 
 
 ## 活動実績
