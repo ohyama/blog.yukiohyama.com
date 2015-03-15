@@ -105,7 +105,7 @@ http://opendata.shiga.jp/hanabi2014_app/
 課題は沢山ありますが[Code for Kobe](https://www.facebook.com/codeforkobe)はまだ始まったばかり。みんなと一緒に楽しく解決していければなと思ってます。**毎月第3木曜日に定例ミーティングを開催している**ので興味のある方はぜひ参加してみてください。
 
 ## 関連リンク
-　
+
 ### Code for X
 
 - [Code for America](http://www.codeforamerica.org/)
