@@ -7,7 +7,7 @@ tags:
 
 ![Code for Kobe](https://farm8.staticflickr.com/7589/16615272568_c7eb63212c_b_d.jpg)
 
-僕は[FaithCreates Inc.](http://www.faithcreates.co.jp/)という会社以外に、[Code for Kobe](http://www.facebook.com/codeforkobe)というシビックテックコミュニティの代表も務めています。2014年12月に発足したばかりの[Code for Kobe](http://www.facebook.com/codeforkobe)ですが、この4ヶ月近い間に色々と考えさせられる体験をしたので、僕なりにシビックテックについて感じていることをまとめてみたいと思います。
+僕は[FaithCreates Inc.](http://www.faithcreates.co.jp/)という会社以外に、[Code for Kobe](http://www.facebook.com/codeforkobe)というシビックテックコミュニティの代表も務めています。2014年11月末に発足したばかりの[Code for Kobe](http://www.facebook.com/codeforkobe)ですが、この4ヶ月近い間に色々と考えさせられる体験をしたので、僕なりにシビックテックについて感じていることをまとめてみたいと思います。
 
 <!-- more -->
 
@@ -23,7 +23,7 @@ tags:
 
 Code forとは、[Code for America](http://www.codeforamerica.org/)から生まれたシビックテックムーブメントで、ヨーロッパ・アジアなど全世界に急速な勢いで広がっています。**市民がオープンソース文化をもとにしたインターネットテクノロジーを活用し政治に参加することで、より良い社会をつくることが可能になる**と彼らは考えています。
 
-[Code for America](http://www.codeforamerica.org/)については次の[TEDトーク](http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government?language=ja#)を見ていただくと非常によく分かると思いますが、テクノロジーに精通しているフェローと呼ばれる人材を自治体に派遣し、自治体の職員とともに課題解決に取り組む活動を行っています。
+[Code for America](http://www.codeforamerica.org/)については、僕の大好きな次の[TEDトーク](http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government?language=ja#)を見ていただくと非常によく分かると思いますが、テクノロジーに精通しているフェローと呼ばれる人材を自治体に派遣し、自治体の職員とともに課題解決に取り組む活動を行っています。
 
 <iframe src="https://embed-ssl.ted.com/talks/jennifer_pahlka_coding_a_better_government.html" width="740" height="416" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -80,7 +80,7 @@ http://opendata.shiga.jp/hanabi2014_app/
 
 色々とディスカッションをして分かったのは、神戸は地元企業や市民がほとんど参加しないままオープンデータが推進されているという現実。神戸にはまだシビックテックコミュニティが存在しなかったのです。
 
-仕方が無いと諦めることもできたのですが、「**オープンデータやオープンガバメントを推進するためには、街の企業や市民の参加なしにはありえない。**」と感じたことや、「**シビックテックというクリエーターが活躍できる新たな場を神戸につくりたい。**」という想いから、その場で[Code for Kobe](https://www.facebook.com/codeforkobe)の立ち上げを宣言。多くの仲間に支援され現在に至ります。
+仕方が無いとスルーすることもできたのですが、「**オープンデータやオープンガバメントを推進するためには、街の企業や市民の参加なしにはありえない。**」と感じたことや、「**シビックテックというクリエーターが活躍できる新たな場を神戸につくりたい。**」という想いから、その場で[Code for Kobe](https://www.facebook.com/codeforkobe)の立ち上げを宣言。多くの仲間に支援され現在に至ります。
 
 テクノロジーを使う自治体や市民と、テクノロジーをつくる企業やクリエーターが共創し、**自分達が住む街の未来に主体的に関わっていくための場**になるべく日々活動を続けております。
 
@@ -91,7 +91,7 @@ http://opendata.shiga.jp/hanabi2014_app/
 
 定例ミーティングに参加すれば、普段の生活では出会わないような人たちとディスカッションできたり。アイデアソンを開催すれば、神戸・兵庫のポテンシャルを感じさせれる秀逸なアイデアが生まれたり。[Code for Kobe](https://www.facebook.com/codeforkobe)が今までに無かった価値が生まれる場になりはじめてきていると感じてます。
 
-ただ、**地域課題という言葉に対しては、僕を含めほとんどの人が実感がない**ような気がしました。神戸というまだ人がいる街だからとか、年齢が若いからという訳ではなく、都心では地域に触れる機会が本当に少ないのだと思います。**自分が住んでいる街が今どのようになっているのか、僕たちはもう少し知る必要がある**と感じました。
+ただ、**地域課題という言葉に対しては、僕を含めほとんどの人が実感がない**ような気がしました。神戸という比較的都会な街だからとか、年齢が若いからという訳ではなく、地域に触れる機会が本当に少ないのだと思います。**自分が住んでいる街が今どのようになっているのか、僕たちはもう少し知る必要がある**と感じました。
 
 また、現状はボランティアベースで進めているため、ディスカッションやアイデアソンで秀逸なアイデアが生まれても、なかなか前に進まないという課題もあります。アイデアを形にするためには多くの人の力が必要あり、**市民や企業・自治体・クリエーターにとって三方よしとなる仕組みを地域で生み出す必要がある**と強く感じています。
 
@@ -100,9 +100,9 @@ http://opendata.shiga.jp/hanabi2014_app/
 
 [Code for Kobe](https://www.facebook.com/codeforkobe)は**自分達が住む街の未来に主体的に関わっていくための場**なので、やらなきゃいけない事がある訳ではありません。自分たちの住む街に役に立つことであれば、どんどん意見をいって仲間を募っていただければと思ってます。
 
-そんな[Code for Kobe](https://www.facebook.com/codeforkobe)で僕が今やりたい事は**街を知るためのデータビジュアライゼーション**。自分達が住んでいる街が今どのようになっているかを知ることで色々なことに気づけると思ってます。最終的にはみんなが作ったビジュアライゼーションを[SIGGRAPH ASIA](https://farm9.staticflickr.com/8736/16634875800_c87cc568a3_b.jpg)に出展できたら素敵ですね。
+そんな[Code for Kobe](https://www.facebook.com/codeforkobe)で僕が今やりたい事は、**街を知るためのデータビジュアライゼーション**。自分達が住んでいる街が今どのようになっているかを知ることで色々なことに気づけると思ってます。最終的にはみんなが作ったビジュアライゼーションを[SIGGRAPH ASIA](https://farm9.staticflickr.com/8736/16634875800_c87cc568a3_b.jpg)に出展できたら素敵ですね。
 
-課題は沢山ありますが[Code for Kobe](https://www.facebook.com/codeforkobe)はまだ始まったばかり。みんなと一緒に楽しく解決していければなと思ってます。**毎月第3木曜日に定例ミーティングを開催している**ので興味のある方はぜひ参加してみてください。
+課題は沢山ありますが[Code for Kobe](https://www.facebook.com/codeforkobe)はまだ始まったばかり。みんなと一緒に楽しく解決していければなと思ってます。毎月第3木曜日に定例ミーティングを開催しているので興味のある方はぜひ参加してみてください。
 
 ## 関連リンク
 
