@@ -27,7 +27,7 @@ Code forとは、[Code for America](http://www.codeforamerica.org/)から生ま�
 
 <iframe src="https://embed-ssl.ted.com/talks/jennifer_pahlka_coding_a_better_government.html" width="740" height="416" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-国内では、[Code for Japan](http://code4japan.org/)が中心となってフェローシップ制度を推進しているのですが、それ以外にも「ともに考え、ともにつくる。」というCode for Japanの理念に共感した人達が、[Code for Japan Brigede](http://code4japan.org/brigade)という地域のシビックテックコミュニティを立ち上げています。2015年3月現在、日本全国で28の地域（準備中のものも含めると47地域）でCode for Brigedeが活動しており、[Code for Kobe](https://www.facebook.com/codeforkobe)もその中のひとつとなります。
+国内では、[Code for Japan](http://code4japan.org/)が中心となってフェローシップ制度を推進しているのですが、それ以外にも「ともに考え、ともにつくる。」というCode for Japanの理念に共感した人達が、[Code for Japan Brigade](http://code4japan.org/brigade)という地域のシビックテックコミュニティを立ち上げています。2015年3月現在、日本全国で28の地域（準備中のものも含めると47地域）でCode for Brigadeが活動しており、[Code for Kobe](https://www.facebook.com/codeforkobe)もその中のひとつとなります。
 
 
 ## シビックテックの具体例
